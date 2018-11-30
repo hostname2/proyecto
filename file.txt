@@ -1,0 +1,7 @@
+nombre,telefono,direccion,emails,pais,valorX
+Carlos,123,barva,carlos@hotmail.com,alemania,99
+andrea,234,santa lucia,andrea@gmail.com,mexico,98
+juan,345,san jose,juan@hotmail.com,brazil,97
+jhin,456,uruca,adsf@hotmail.com,alemania,96
+santa,234,santa lucia,santa@gmail.com,mexico,95
+santa,234,santa lucia,santa@gmail.com,Costa Rica,94
